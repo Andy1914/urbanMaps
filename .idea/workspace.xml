@@ -24,15 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fab2ba7b-99f6-4db4-82c3-d10369694d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maps/models/geocoder_request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/service/google_geocode_service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/util/map_utils.js" afterDir="false" />
+    <list default="true" id="fab2ba7b-99f6-4db4-82c3-d10369694d80" name="Default Changelist" comment="refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps/constants/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps/controller/maps_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps/controller/maps_controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps/models/mapsResponse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps/models/maps_response.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps/service/map_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps/service/map_service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -81,13 +75,34 @@
       <workItem from="1601308723646" duration="15736000" />
       <workItem from="1601359200081" duration="261000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor">
+      <created>1601374961291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601374961291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="620" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601346963815">
@@ -98,6 +113,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601331721844" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1601374963808">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1601374963808" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1601330752695">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

@@ -11,7 +11,7 @@ router.get('/',  async (req, res) => {
 
 })
 
-// About page route.
+
 router.get('/test', function (req, res) {
     res.send('Welcome to map api');
 })
