@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab2ba7b-99f6-4db4-82c3-d10369694d80" name="Default Changelist" comment="" />
+    <list default="true" id="fab2ba7b-99f6-4db4-82c3-d10369694d80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i9911cQCWA7AdcOiCpps0xhUVR" />
   <component name="ProjectViewState">
@@ -29,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/../src" />
@@ -42,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601308722329</updated>
-      <workItem from="1601308723646" duration="14305000" />
+      <workItem from="1601308723646" duration="15736000" />
+      <workItem from="1601359200081" duration="261000" />
     </task>
     <servers />
   </component>
@@ -50,6 +60,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="620" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601346963815">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="620" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1601346963815" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1601331721844">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -65,7 +79,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/maps/service/map_service.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
