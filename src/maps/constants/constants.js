@@ -4,4 +4,10 @@ const GoogleGeocoderConstants ={
     method: 'GET',
 }
 
+const supportedGeocoders = {
+    GOOGLE:"google"
+
+}
 exports.GoogleGeocoderConstants = GoogleGeocoderConstants
+exports.supportedGeocoders = supportedGeocoders
+
